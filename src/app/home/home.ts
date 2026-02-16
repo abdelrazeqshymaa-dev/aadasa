@@ -1,4 +1,5 @@
-import { Posts } from './../../../../posts';
+import { Posts } from './posts';
+
 import { Component } from '@angular/core';
 import { RouterLink } from '@angular/router';
 

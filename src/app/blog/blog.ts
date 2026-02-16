@@ -1,4 +1,5 @@
-import { Posts } from './../../../../posts';
+import { Posts } from './../home/posts';
+
 import { Component } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 
